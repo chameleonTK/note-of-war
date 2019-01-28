@@ -23,14 +23,23 @@ It is an part of [CS5041](https://info.cs.st-andrews.ac.uk/student-handbook/modu
 
 1. Install [Processing IDE 3.x](https://processing.org/download/)
 2. Clone thie repo `https://github.com/chameleonTK/note-of-war` and open `NoteOfWar.pde` as an entry file.
+3. Connect Phidget and its sensors.
+4. Open `ScoreHandler.pde` and set up `port` and `channel` for each sensor. 
 
 ## Requirements
+
+* Phidget
+* Phidget Sound Sensor [link](https://www.phidgets.com/?prodid=106) x2
+* Phidget Indoor light sensor [link](https://www.phidgets.com/?tier=3&catid=8&pcid=6&prodid=115) x2
+* Phidget temperature sensor [link](https://www.phidgets.com/?tier=3&catid=14&pcid=12&prodid=95) x2
+* LED and standard resistor x2
+
 * Processing 3.x
 * `phidgets22.jar`; see [documentation](https://www.phidgets.com/?view=api)
-* `GifAnimation` for Processing 3.x; see [github](https://github.com/akiljohnson1/GifAnimation)
+* `gifAnimation.jar` for Processing 3.x; see [github](https://github.com/akiljohnson1/GifAnimation)
 
 ## Resource
-* 2D Pixel Art Skeletal Warrior from https://elthen.itch.io/2d-pixel-art-skeletal-warrior
+* 2D Pixel Art Skeletal Warrior from https://elthen.itch.io/2d-pixel-art-skeletal-warrior *NOT Free*
 
 ## How it work
 It is quite messy. Explain later
