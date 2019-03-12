@@ -1,6 +1,6 @@
 # Note of War
 
-An interactive game developing with [Processing](https://processing.org/) and [Phidgets](https://www.phidgets.com/?). It is inspired by the actual tug of war game which two teams on opposite side of a rope pull against each other to seize the opposite. In the game, players use loud voice as a rhythm to harmonize the team. Note of war mimics these tactics, but instead of using physical strength, but it uses voice, calculates the score and then adjust the position of each team.
+An interactive game inspired by the actual tug of war game which two teams on opposite side of a rope pull against each other to seize the opposite. In the game, the players use loud voice as a rhythm to harmonize the team. Instead of using physical strength, but *Note of war uses voice, calculates the score and then adjust the position of each team*.
 
 The game is developed using [Processing](https://processing.org/) as a tools for building an interactive interface. To connect digital world with sensors and motors, I use the game with [Phidgets](https://www.phidgets.com/?) as an input device which it will connect with several sensors including a sound sensor, an indoor light sensor and a temperature sensor.
 
